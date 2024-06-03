@@ -1,0 +1,11 @@
+{
+  "name": "commitlint",
+  "version": "1.0.0",
+  "description": "commitlint with docker",
+  "main": "commitlint",
+  "dependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "@commitlint/prompt-cli": "^19.3.1"
+  }
+}
